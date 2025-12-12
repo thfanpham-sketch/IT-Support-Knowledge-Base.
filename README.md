@@ -5,7 +5,6 @@ This project includes clear technical documentation supported by screenshots, al
 
 
 
-
 ```text
 IT-Support-Knowledge-Base/
 ├── A_Troubleshooting_guides/
